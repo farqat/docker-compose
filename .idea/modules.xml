@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../compose-api/compose-api.iml" filepath="$PROJECT_DIR$/../compose-api/compose-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../compose-ui/compose-ui.iml" filepath="$PROJECT_DIR$/../compose-ui/compose-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/root.iml" filepath="$PROJECT_DIR$/root.iml" />
+    </modules>
+  </component>
+</project>
