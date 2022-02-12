@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../compose-api/compose-api.iml" filepath="$PROJECT_DIR$/../compose-api/compose-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/../compose-ui/compose-ui.iml" filepath="$PROJECT_DIR$/../compose-ui/compose-ui.iml" />
-      <module fileurl="file://$PROJECT_DIR$/root.iml" filepath="$PROJECT_DIR$/root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docker-compose.iml" filepath="$PROJECT_DIR$/docker-compose.iml" />
     </modules>
   </component>
 </project>
